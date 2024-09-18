@@ -1,0 +1,56 @@
+<!--?--> 
+    <!-- --> simbolo usado para comentar as coisas no html
+    ? texto a ser comentado
+
+&lt == codígo para aparecer o sinal de menor que "<" na página web
+
+&gt == codígo para aparecer o sinal de maior que ">" na página web
+
+misc symbols == site de simbolos
+emojipedia == site de emojes
+&#x = é para botar o codigo do emoji ex &#<1F596 == 🖖
+ctrl + shit + p == comando de atalho
+<strong> == bota o texto em destaque (negrito)
+<em> == bota o testo em enfase (itálico)
+<mark> == marca o texto (marca texto)
+<small> == deixa o texto pequeno
+<del> == deixa o texto riscado (com um risco no meio do texto)
+<ins> == deixa o texto sublinhado
+<sup> == deixa o texto subrescrito (deixa o texto na parte de cima como se fosse um número elevado a outro ex: 2³)
+<sub> == deixa o texto subscrito (deixa o texto na parte de baixo como se fosse um elemento da tabela periodica ex:h₂o
+
+<code> == deixa todas as letras ocupando o mesmo espasso, deixando ver mais visivel que é um codigo
+<pre> == pré formataçao do texto (deixa o texto na maneira que você escreveu no visual studio, com tabulação e tudo certinho de vez botar tudo na mesma linha como geralmente faz
+<Q> == da o sentido que é citaçâo (" ")
+<blockquote> == sitação com quebra de linha e um deslocamento horizontal para dieita
+<abbr> = você pode botar o significado(nome) da abreviação assim quando passa o mause por sima no site aparece o significado da abreviação 
+
+<header> == cabesalho
+<main> == conteudo principal
+footer == rodape
+<section> == é uma sessão pra quando você for separar deu site em sessões
+<aside> == ao lado(pra quando você que botar uma sessão do lado da outra
+<button> == butão onde a pessoa pode apertar no seu site
+width == largura ou seja você pode escolher a largura do seu conteudo
+
+========================== LISTAS ===================
+ol == lista ordenada
+    type="" 1 A a I i
+    <li> == item de lista
+ul == lista
+	<li> == item de lista
+dl == Lista de definições
+	<dt> == item
+	<dd> == definição
+
+type="" = parametro que você pode usar nas listas ordenadas e não ordenadas
+    type da lista ordenada
+        1, A, a, I, i
+    type da listas não ordenadas
+        disc, circle, square
+
+start="" = parametro que você pode usar nas listas ordenadas e não ordenadas
+    diz por qual número ou letra começa a ordenar e so aceita número como parametro
+        ex: start="5"
+        5,6,7,8...
+        e,f,g,h...
