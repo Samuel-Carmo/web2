@@ -54,3 +54,14 @@ start="" = parametro que você pode usar nas listas ordenadas e não ordenadas
         ex: start="5"
         5,6,7,8...
         e,f,g,h...
+
+==============LINKS=================
+
+<a heref=" " target="_blank"> == a tag 'a' siginica ancora, here=" " é onde você quer puxar
+(seja um link ou para outra parte do seu site), target="_blank" é para o caso do seu site 
+puchar um site externo ele abrir em outra aba em vez de sobrepor o seu site
+<a heref=" " target="_blank" rel="external"> == rel="external" é so para dizer para o navegador
+que a ancora é para um link externo
+rel="nofollow" == é pra dizer pro mecanismo de busca que eu não dou meu aval nesse link
+rel="next" == diz pro navegador que você está seguindo para pagina seguinte do seu site
+rel="prev" == diz pro navegador que você está indo para uma pagina anterior
