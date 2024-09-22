@@ -1,0 +1,4 @@
+iconarchive == site de icones
+favicon.cc == site para desenhar icones
+favicon.io == pode tranformar um texto, um png ou um emoji em um icone
+materialize.icons == site de icons
