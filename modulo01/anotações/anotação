@@ -68,11 +68,37 @@ rel="prev" == diz pro navegador que você está indo para uma pagina anterior
 
 ========imagens======
 <picture> == diz pro navegador que vai aparecer uma imagem e te permite criar varias fontes
+    dentro de picture escreva source e escolha source:midia:type
 <source media="(max-width: )" srcset="" type="image/?"> ==
     <source media="(max-width: ?px)" == ? é onde você coloca o tamanho da imagem
     srcset="?" == ? é onde você bota o arquivo(imagem)
     type="image/?"> == ? é onde você bota o tipo da imagem
 
+========= áudio =========
+<audio src=""></audio>
+    dentro src você bota o seu arquivo de audio 
+
+<audio>
+    <source src="" type="">
+</audio>
+    é outra maneira de botar áudio mais escolehendo o tipo do áudio mais você pode botar varios arquivos com tipos diferentes ele vai tentar rodar o primeiro e se não der ele vai pro proximo e assim por diante
+    src arquivo de audio
+    type: tipo so arquivo de audio
+        "audio/mpeg" audio mp3
+        "audio/ogg" audio ogg
+        "audio/wav" audio wav não recomendado por ser muito pesado
+
+controls
+    parametro para aparecer os controles pro áudio 
+
+preload
+    parametro de carregamento do áudio
+    auto (padrão)
+        so considera que o site terminou de carregar depois que todo o áudio for carregado também
+    metadata
+        vai carregar so o nome do arquivo a duração 
+    none 
+        não carrega nada
 ========= videos ========
 pexels == site para videos sem direitos autorais
 <video width="500" poster="imagens/limoes-capa.png" controls>
