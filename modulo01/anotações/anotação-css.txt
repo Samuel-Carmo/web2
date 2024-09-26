@@ -1,0 +1,40 @@
+# {} == te permite criar um codigo que vai ser aplicado para todos os elentos
+
+font-family: ?; == fonte
+	'''font-family: sans-serif == usada na aula'''
+
+display: ?; == vai dizer como os elementos daquele seletor deve se organizar(por padrão ele bota tudo na horizontal)
+	'''display: flex;'''
+
+justify-content: ?; == descreve como os elementos que tem dentro de uma caixa que é um (display: flex;) vão se orhanizar em relação a dimenção principal
+
+box-sizing:  == o metodo para definir a borda da caixa
+	'''box-sizing: border-box;''' == borda da caixa
+
+margin == cria uma margem para o seu conteudo
+	'''margin: 2rem;''' = 2 vezes o tamanho da fonte
+
+text-decoration == pode tirar e botar decoração no texto
+
+text-align: justify; == alinha o texto para que uma linha termine no mesmo local que a outra
+	right; alinha o texto a direita
+
+background-image: linear-gradient(?, ?? ,??) == usado para criar um degrade, ? que ele vai por exemplo (to right == da direira),
+?? é onde você bota a cor que você quer usar no degrade 
+
+width:?; == largura, ? ( usado para definir uma largura para sua box)
+
+margin:?; == margem da box, ? (usado para definir a margem da box)
+
+padding:?; == preenchimento, ? (usado geralmente para criar uma distancia entre o conteudo
+e a margem da box
+
+box-shadow: ? ?? ??? ???? == cria uma sombra para sua box, ? diz quanto sua sombra vai andar na horizontal,
+?? diz quanto sua sombra vai andar na vertical, ??? diz quanto sua sombra vai se espalhar,
+???? cor da sombra
+
+border-radius: ?px; == cria um arredondamento nas bordas da sua box
+
+text-shadow:? ?? ??? ???? == cria uma sombra para seu texto, ? diz quanto sua sombra vai andar na horizontal,
+?? diz quanto sua sombra vai andar na vertical, ??? diz quanto sua sombra vai se espalhar,
+???? cor da sombra
