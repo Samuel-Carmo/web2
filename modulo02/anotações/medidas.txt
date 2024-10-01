@@ -1,0 +1,15 @@
+=========== medidas absolutas ===================
+cm == centimetros
+mm == milimetros
+in == polegada
+px == pixels
+pt == ponto
+pc == paica
+
+=========== medidas relativas ================
+em ==  medida relativa ao tamanho atual da fonte
+ex == relativo a altura X de uma fonte
+rem == relativo ao root(fonte que está configurada no body)
+vw == largura da sua tela
+vh == altura da tela
+% == relativo a porcentagem

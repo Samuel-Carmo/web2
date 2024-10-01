@@ -1,0 +1,20 @@
+============ Representação de cores =============
+cores reprentada por exadecimais
+    #0000ff
+
+cores reprentada por RGB (Red, Green, Blue)
+    rgb(0, 0, 255)
+
+cores reprentada por HSL (Hue, Sturation, Luminosity)
+    hsl(240, 100%, 50%)
+
+OBS: se você deixar o mause encima do código da cor você pode trocar a forma em que a cor vai ser representada, trocar a cor, o tom da cor e a tranparencia da cor
+
+sites para paleta de cores
+    adobe color, paleton, coolors
+
+background-color: ;
+    Define a cor de fundo do elemento.
+
+color: ;
+    Define a cor do texto usando o nome da cor em inglês e códigos exadecimais, RGB e HSL.

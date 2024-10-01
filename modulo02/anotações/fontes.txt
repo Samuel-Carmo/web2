@@ -1,0 +1,31 @@
+medidas recomendadas para fontes == px e em
+
+categorias de fontes == serifadas(com serifas), sans-serif( sem siifas),
+monoespaçadas( todas as letras ocupam a mesma largura),
+handwriting( simula letras escritas a mão),
+display(fontes comemorativas)
+
+variações de peso == lighter(leve), normal, bold, bolder
+font-weigth == peso da fonte
+
+========== comandos ===========
+font-style:?; == estilo da fonte
+font-weigth == peso da fonte
+font-size == tamanho da fonte
+font-family == familia da fonte
+font: ; == shorthand onde você pode botar todas as configurações da fonte mais tem que ser em ordem
+	font-style -> font-weigth -> font-size -> font-family
+	ex: font: italic bolder 3em 'Worl Sans', sans-serif;
+
+google fontes == site de fontes
+
+@font-face == serve para usar uma fonte que você baixou
+
+text-decoration:?; == decoração do texto
+
+=========alinhamento do texto ===========
+text-align: justify; == alinha o texto para que uma linha termine no mesmo local que a outra
+	right; alinha o texto a direita
+	left; == alinha o texto a esqerda
+
+text-indent: ?; == da uma identação no texto

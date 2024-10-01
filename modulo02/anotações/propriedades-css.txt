@@ -1,0 +1,27 @@
+margin: auto;
+    Centraliza o elemento horizontalmente dentro de seu contêiner pai.
+
+border-radius: ;
+    Define um arredondamento nos cantos de um elemento.
+
+box-shadow: ;
+    Cria uma sombra projetada em torno do elemento.
+
+width: ;
+    Define a largura fixa do elemento.
+
+padding: ;
+    Adiciona um espaço interno entre o conteúdo do elemento e suas bordas.
+
+margin: auto;
+    Centraliza o elemento horizontalmente dentro de seu contêiner pai.
+
+text-align: center;
+    Alinha o texto horizontalmente no centro do seu contêiner.
+
+text-shadow: ;
+    Adiciona uma sombra ao texto.
+
+text-align: justify;
+    Alinha o texto de forma que as linhas tenham o mesmo comprimento, estendendo-se uniformimente de uma margem à outra.
+    
