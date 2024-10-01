@@ -16,12 +16,16 @@ padding: ;
 margin: auto;
     Centraliza o elemento horizontalmente dentro de seu contêiner pai.
 
-text-align: center;
-    Alinha o texto horizontalmente no centro do seu contêiner.
-
-text-shadow: ;
-    Adiciona uma sombra ao texto.
+text-align: ;
+    center
+        Alinha o texto horizontalmente no centro do seu contêiner.
+    left
+        alinha o texto a esquerda (padrão)
+    right
+        alnha o texto a direita
 
 text-align: justify;
     Alinha o texto de forma que as linhas tenham o mesmo comprimento, estendendo-se uniformimente de uma margem à outra.
     
+text-shadow: ;
+    Adiciona uma sombra ao texto.
