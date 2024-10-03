@@ -1,0 +1,17 @@
+block: O elemento é exibido como um bloco, ocupando toda a largura disponível.
+
+inline: O elemento é exibido na mesma linha que outros elementos, sem quebra de linha.
+
+inline-block: O elemento é exibido como um bloco, mas permite que outros elementos sejam exibidos na mesma linha.
+
+none: O elemento não é exibido e não ocupa espaço na página.
+
+flex: O elemento se torna um contêiner flexível, permitindo o uso de propriedades de flexbox para alinhar e distribuir espaço entre os itens.
+
+grid: O elemento se torna um contêiner de grade, permitindo a disposição de elementos em linhas e colunas.
+
+table-row: O elemento é exibido como uma linha de tabela, semelhante ao <tr>.
+
+table-cell: O elemento é exibido como uma célula de tabela, semelhante ao <td>.
+
+list-item: O elemento é tratado como um item de lista, como em uma lista ordenada ou não ordenada.

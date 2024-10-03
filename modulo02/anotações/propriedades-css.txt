@@ -26,6 +26,8 @@ text-align: ;
 
 text-align: justify;
     Alinha o texto de forma que as linhas tenham o mesmo comprimento, estendendo-se uniformimente de uma margem à outra.
-    
+
+text-idnet
+    faz uma identação no texto
 text-shadow: ;
     Adiciona uma sombra ao texto.

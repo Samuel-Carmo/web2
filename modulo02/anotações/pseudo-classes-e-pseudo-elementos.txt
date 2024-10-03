@@ -1,0 +1,24 @@
+========================PSEUDO-CLASSES========================
+
+:hover == Aplica estilos quando o elemento é "hovered" (quando o cursor do mouse está sobre ele)
+
+:active == Aplica estilos quando o elemento está ativo (quando está sendo pressionado ou clicado)
+
+:focus == Aplica estilos quando o elemento está em foco (quando é selecionado ou recebe
+o foco do teclado)
+
+:visited == Aplica estilos a links que já foram visitados pelo usuário
+
+:link == Aplica estilos a links que ainda não foram visitados pelo usuário
+
+======================PSEUDO-ELEMENTOS=========================
+
+::before == Insere conteúdo antes do elemento selecionado
+
+::after ==  Insere conteúdo depois do elemento selecionado
+
+::first-line == Seleciona a primeira linha de texto dentro do elemento
+
+::first-letter == Seleciona a primeira letra do texto dentro do elemento
+
+::selection ==  Seleciona o texto destacado pelo usuário na página
