@@ -1,0 +1,14 @@
+content == conteudo
+
+border == linha que sircunda o conteudo.
+
+padding == é usada para criar espaço interno entre o conteúdo de um elemento e sua borda.
+
+margin == é usado para criar espaço externo ao redor da borda de um elemento, separando-o de outros elementos da página.
+
+outline == é usada para desenhar uma linha ao redor de um elemento, semelhante a uma borda.
+
+============ tipos de caixas ===========
+box level == sempre se inicia em uma linha nova, e ocupa a largura total da tela e sempre quando termina ele pula pra linha de baixo.
+
+inline-level == ocupa apenas o espaço necessário, não começa em uma nova linha.
